@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9829" started-at="2016-12-28T02:07:41Z" finished-at="2016-12-28T02:07:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9829" started-at="2016-12-28T02:07:41Z" finished-at="2016-12-28T02:07:51Z">
+      <class name="com.ltlxpo.test.LtlXPOLoginTest">
+        <test-method status="PASS" signature="loginWithValidCredentialsTest()[pri:0, instance:com.ltlxpo.test.LtlXPOLoginTest@26653222]" name="loginWithValidCredentialsTest" duration-ms="9601" started-at="2016-12-27T18:07:41Z" finished-at="2016-12-27T18:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentialsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ltlxpo.test.LtlXPOLoginTest@26653222]" name="tearDown" is-config="true" duration-ms="108" started-at="2016-12-27T18:07:51Z" finished-at="2016-12-27T18:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ltlxpo.test.LtlXPOLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

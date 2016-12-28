@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="7323" started-at="2016-12-23T05:56:32Z" finished-at="2016-12-23T05:56:39Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="7323" started-at="2016-12-23T05:56:32Z" finished-at="2016-12-23T05:56:39Z">
+      <class name="com.ltlxpo.test.LtlXPOLoginTest">
+        <test-method status="PASS" signature="loginWithValidCredentialsTest()[pri:0, instance:com.ltlxpo.test.LtlXPOLoginTest@3f2a3a5]" name="loginWithValidCredentialsTest" duration-ms="7199" started-at="2016-12-22T21:56:32Z" finished-at="2016-12-22T21:56:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentialsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ltlxpo.test.LtlXPOLoginTest@3f2a3a5]" name="tearDown" is-config="true" duration-ms="109" started-at="2016-12-22T21:56:39Z" finished-at="2016-12-22T21:56:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ltlxpo.test.LtlXPOLoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
